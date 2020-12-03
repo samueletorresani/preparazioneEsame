@@ -1,5 +1,5 @@
 /*
-   Ricerca elemento in array
+    Ricerca elemento in array
     Dati in ingresso da riga di comando: i) un valore intero x, e ii) una lista di valori interi a.
     Verificare se il valore x è contenuto nella lista a. In caso affermativo stampare true. Altrimenti
     stampare false.
@@ -11,7 +11,7 @@ using namespace std;
 
 int main(int argc, const char* argv[]){
     if(argc<2){
-        cout<<"errore";
+        cout<<"errore: numero insufficiente di argomenti \n";
         return -1;
     }
     int x = atoi(argv[1]);

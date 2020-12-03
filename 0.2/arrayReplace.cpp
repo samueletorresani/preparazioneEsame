@@ -14,7 +14,7 @@ using namespace std;
 
 int main (int argc, const char * argv[]){
     if (argc != 3){
-        cout<<"errore, non sono stati inseriti 2 argomenti da riga di comando /n";
+        cout<<"errore, non sono stati inseriti 2 argomenti da riga di comando \n";
         return -1;
     }
 

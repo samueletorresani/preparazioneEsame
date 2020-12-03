@@ -35,7 +35,7 @@ int fibonacciIter (int y){
 
 int main(int argc, const char* argv[]){
     if(argc!=2){
-        cout<<"errore";
+        cout<<"errore: il numero di argomenti da riga di comando dovrebbe essere 1 \n";
         return -1;
     }
     int x= atoi(argv[1]);
