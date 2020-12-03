@@ -1,3 +1,12 @@
+/*
+    Fibonacci
+    Dato in ingresso da riga di comando un intero positivo i, stampare in uscita l'i-esimo valore
+    della sequenza di Fibonacci. Nella sequenza di Fibonacci i primi due elementi sono uguali
+    ad 1, mentre ogni elemento successivo è dato dalla somma dei due elementi che lo
+    precedono, ovvero:
+    1, 1, 2, 3, 5, 8, 13,...
+*/
+
 #include <iostream>
 
 using namespace std;

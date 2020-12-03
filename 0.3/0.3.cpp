@@ -1,4 +1,9 @@
-//ricerca elemento in un array
+/*
+   Ricerca elemento in array
+    Dati in ingresso da riga di comando: i) un valore intero x, e ii) una lista di valori interi a.
+    Verificare se il valore x è contenuto nella lista a. In caso affermativo stampare true. Altrimenti
+    stampare false.
+ */
 
 #include <iostream>
 

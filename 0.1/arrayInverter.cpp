@@ -1,3 +1,8 @@
+/*
+    Invertire un array (blocco 2)
+    Dato in ingresso da riga di comando un array, stamparlo in ordine inverso
+*/
+
 #include <iostream>
 
 using namespace std;
