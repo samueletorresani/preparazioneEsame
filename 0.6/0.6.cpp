@@ -18,7 +18,7 @@ int main(int argc, const char * argv[])
     }
     const char * s = argv[1];
     int i = 0;
-    while (s[i] != "\0") {
+    while (s[i] != '\0') {
         char c = s[i];
         int count = 1;
         while (s[i + count] == c) {
